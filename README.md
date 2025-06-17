@@ -21,3 +21,5 @@ The Threat Hunting Lab project is designed to develop proactive detection skills
 - **Sigma** – Rule writing and log-based detection mapping  
 - **CyberChef** – Data decoding, transformation, and IOC extraction  
 - **Winlogbeat** – Windows event forwarding into Elasticsearch  
+
+## Steps
